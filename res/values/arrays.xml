@@ -1,0 +1,29 @@
+<resources>
+    <string-array name = "words">
+        
+        
+     <item>CHARGER</item>
+    <item>CARDREADER</item>
+    <item>IRONMAN</item>
+    <item>LAPTOP</item>
+    <item>MOONGRAPH</item>
+    <item>INTERNET</item>
+    <item>HARDDISK</item>
+    <item>ANDROID</item>
+    <item>JAVA</item>
+    <item>ITC</item>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </string-array>
+    
+    
+    
+    
+</resources>
