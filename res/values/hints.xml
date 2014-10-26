@@ -1,31 +1,65 @@
 <resources>
-    <string-array name = "hints">
+    <string-array name = "comp_hints">
         
-        
-     <item>LIFELINE</item>
-    <item>THATS NOT SOMETHING YOU BRING TO PAPER</item>
-    <item>YOUR PHONE</item>
-    <item>ITS IN ARABIC!</item>
-    <item>MUST HAVE FEATURE IN A WATCH</item>
+    <item>WHOSE NEW VERSION IS LOLLIPOP</item>
+    <item>WHICH COMPANY RECENTLY BOUGHT MOTOROLA</item>
+    <item>Which company says it might be making a SmartWig and applied for a patent for it</item>
+    <item>Which computer operating system is named after Finnish programmer Linus Torvalds? </item>
+    <item>Nokia came from which country?</item>
     <item>TRY LIVING WITHOUT IT</item>
-    <item>PILLOW</item>
-    <item>THE BANE OF MY LIFE</item>
-    <item>FIRST LOVE</item>
-    <item>FAVOURITE SUBJECT</item>
-      <item>PARASHAR KA PYAAR</item>
-        <item>CHARMANDER</item>
-        
-        
-        
-        
-        
-        
-        
-        
-        
+    <item>Who invented scissors?</item>
+    <item>NSA leaker Edward Snowden has successfully avoided capture by the U.S. government and works where now?</item>
+    <item>What innovation did Apple add to the iPhone 5S?</item>
+    <item> Microsoft CEO Steve Ballmer closed his last employee meeting with a song from the movie: </item>
+  
+    
+    </string-array>
+    
+    <string-array name = "friends_hints">
+       
+    <item>What name appears on the address label of Chandler and Joeys TV Guide</item>
+    <item>What is the name of the neighbour who leaves everything to Monica and Rachel when he dies</item>
+    <item>What is the name of the song that Phoebe sings the most?</item>
+    <item>What is Chandler s middle name?</item>
+    <item>Which of these friends had an iconic hairstyle? </item>
+    <item>When Phoebe changed her name to Princess Consuela then what did Mike change his name to ? </item>
+    <item>What did Monica s parents call her as a child?</item>
+    <item>What fruit is Ross allergic to?</item>
+    <item>Which famous person does Phoebe believe is her Grandfather?</item>
+    <item>Who scored the winning point at ping-pong in Barbados ?</item>
+      
+    
     </string-array>
     
     
+      <string-array name = "world_hints">
+       
+    <item>Place with shortest name in world , located in Sweden</item>
+    <item>Only state in the world without a capital</item>
+    <item>City where buildings have their own zip code</item>
+    <item>A country with no rivers</item>
+    <item>This festival of lights is the most popular Hindu festival</item>
+    <item> Which Mediterranean island has been a source of conflict between Turkey and Greece in recent times?</item>
+    <item>What is the name of the current President of Cuba?</item>
+    <item>Who is the current president of Egypt?</item>
+    <item> What would you pay with in Venezuela?</item>
+    
+   
+    </string-array>
     
     
+      <string-array name = "bollywood_hints">
+       
+    <item>Who stars along with Shahrukh Khan in Kal Ho Na Ho?</item>
+    <item>Who is the leading actor in Main Hoon Na?</item>
+    <item>In which movie Salman khan and Sharukh khan were brothers?</item>
+    <item>Which actress often comes in both Bollywood and Hollywood movies?</item>
+    <item> Name the film in which "Angar chand and Anpara" family exist.</item>
+    <item> Which was the first sound feature film made in Bolywood ?</item>
+    <item>Which film will see Farhan Akhtar and Vidya Balan opposite each other?</item>
+    <item> Akshay Kumar s Holiday is a remake of which Tamil film?</item>
+    <item>After 3 Idiots, Rajkumar Hirani and Aamir Khan come together in P.K. Who is the female lead in the film?</item>
+    
+    </string-array>
+      
 </resources>

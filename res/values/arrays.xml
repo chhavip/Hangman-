@@ -1,21 +1,48 @@
 <resources>
-    <string-array name = "words">
+    <string-array name = "words_tech">
         
-        
-     <item>CHARGER</item>
-    <item>CARDREADER</item>
-    <item>IRONMAN</item>
-    <item>LAPTOP</item>
-    <item>MOONGRAPH</item>
+     <item>ANDROID</item>
+    <item>LENOVO</item>
+    <item>SONY</item>
+    <item>LINUX</item>
+    <item>FINLAND</item>
     <item>INTERNET</item>
-    <item>HARDDISK</item>
+    <item>LEONARDODAVINCI</item>
     <item>ANDROID</item>
-    <item>JAVA</item>
-    <item>ITC</item>
-    <item>CHARMANDER</item>
+    <item>RUSSIANWEBSITE</item>
+    <item>FINGERPRINTREADER</item>
+    <item>DIRTYDANCING</item>
         
         
         
+   </string-array>
+    <string-array name = "words_friends">
+    
+    <item>CHANDLERBONG</item>
+    <item>HECKLES</item>
+    <item>SMWLLYCAT</item>
+    <item>MURIEL</item>
+    <item>RACHEL</item>
+    <item>CRAPBAG</item>
+    <item>HARMONICA</item>
+    <item>KIWI</item>
+    <item>ALBERTEINSTEIN</item>
+    <item>CHANDLER</item>
+          
+     
+    </string-array>
+    
+     <string-array name = "words_world">
+    
+    <item>A</item>
+    <item>NAURU</item>
+    <item>MANHATTAN</item>
+    <item>SAUDIARABIA</item>
+    <item>DIWALI</item>
+    <item>CYPRUS</item>
+    <item>RAULCASTRO</item>
+    <item>HOSNIUBARAK</item>
+    <item>BOLIVAR</item>
         
         
         
@@ -23,6 +50,28 @@
         
         
     </string-array>
+    
+      
+     <string-array name = "words_bollywood">
+    
+    <item>PREITYZINTA</item>
+    <item>SHAHRUKHKHAN</item>
+    <item>KARANARJUN</item>
+    <item>AISHWARYARAI</item>
+    <item>HULCHUL</item>
+    <item>RAJAHARISHCHANDRA</item>
+    <item>SHAADIKESIDEEFFECTS</item>
+    <item>THUPPAKKI</item>
+    <item>ANUSHKASHARMA</item>
+        
+        
+        
+        
+        
+        
+    </string-array>
+    
+    
     
     
     

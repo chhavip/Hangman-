@@ -3,6 +3,8 @@ package com.example.hangman;
 import java.util.Random;
 
 import android.R.color;
+import android.annotation.SuppressLint;
+import android.app.ActionBar;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.AlertDialog.Builder;
@@ -22,7 +24,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-public class GameActivity extends Activity {
+@SuppressLint("NewApi") public class GameActivity extends Activity {
  
 	private String[] words;
 	private String[] hints;
@@ -47,8 +49,8 @@ public class GameActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_game);
 		Resources res = getResources();
-		words = res.getStringArray(R.array.words);
-		hints = res.getStringArray(R.array.hints);
+		words = res.getStringArray(R.array.words_tech);
+		hints = res.getStringArray(R.array.comp_hints);
 		rand = new Random();
 		currword = "";
 		wordlayout = (LinearLayout)findViewById(R.id.words);
@@ -68,6 +70,9 @@ public class GameActivity extends Activity {
 		
 		playGame();
 		
+		ActionBar bar = getActionBar();
+		bar.setHomeButtonEnabled(true);	
+		bar.setTitle("Go home");
 	}
 	
 	private void playGame(){
